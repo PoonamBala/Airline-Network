@@ -1,0 +1,8 @@
+vtk
+networkx
+pandas
+plotly
+trame<3
+trame-vuetify<3
+trame-vtk<3
+trame-plotly<3
